@@ -198,9 +198,9 @@ body {
 }
 
 .project-details-container {
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 50px;
+  /* font-size: 50px; */
 }
