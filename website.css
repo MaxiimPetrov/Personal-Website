@@ -197,4 +197,12 @@ body {
   width: 70%;
 }
 
-
+.project-details-container {
+  margin: 0;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 40px; 
+}
